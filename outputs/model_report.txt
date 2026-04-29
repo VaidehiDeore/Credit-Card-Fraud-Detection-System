@@ -1,0 +1,34 @@
+Credit Card Fraud Detection Model Report
+==================================================
+
+
+Logistic Regression
+PR-AUC: 0.5253
+ROC-AUC: 0.9877
+
+Random Forest
+PR-AUC: 0.5151
+ROC-AUC: 0.9843
+
+XGBoost
+PR-AUC: 0.5522
+ROC-AUC: 0.9881
+
+Best Model: XGBoost
+Best PR-AUC: 0.5522
+Best Threshold: 0.04
+Estimated Cost: 22950
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.97      0.99      9945
+           1       0.17      0.96      0.29        55
+
+    accuracy                           0.97     10000
+   macro avg       0.58      0.97      0.64     10000
+weighted avg       1.00      0.97      0.98     10000
+
+Confusion Matrix:
+[[9686  259]
+ [   2   53]]
