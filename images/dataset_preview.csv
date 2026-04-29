@@ -1,0 +1,11 @@
+tx_id,ts,amount,merchant_cat,merchant_id_hash,card_id_hash,city,country,device_type,channel,hour,dayofweek,prev_24h_tx_count_card,prev_24h_amt_card,prev_1h_tx_count_card,velocity_amt_1h,is_international,is_night,is_fraud
+TXN_000000,2025-01-01 00:00:00,1173.17,restaurant,M_7319,C_15955,Delhi,India,mobile,wallet,0,2,1,3452.8,1,784.87,False,True,0
+TXN_000001,2025-01-01 00:05:00,7525.3,shopping,M_6540,C_77825,Delhi,India,mobile,online,0,2,3,7335.09,0,0.0,False,True,0
+TXN_000002,2025-01-01 00:10:00,3291.86,grocery,M_4276,C_75001,Mumbai,India,mobile,online,0,2,1,2896.53,0,0.0,False,True,0
+TXN_000003,2025-01-01 00:15:00,2282.36,electronics,M_9098,C_43555,Delhi,India,mobile,offline,0,2,5,33265.22,2,2825.24,False,True,0
+TXN_000004,2025-01-01 00:20:00,424.06,shopping,M_5289,C_32752,Mumbai,India,mobile,online,0,2,3,6571.07,1,987.6,False,True,0
+TXN_000005,2025-01-01 00:25:00,423.99,shopping,M_4103,C_30763,Bangalore,Foreign,mobile,offline,0,2,2,18203.37,1,2940.63,True,True,0
+TXN_000006,2025-01-01 00:30:00,149.6,grocery,M_3449,C_51411,Chennai,Foreign,mobile,online,0,2,2,2675.7,2,3490.08,True,True,0
+TXN_000007,2025-01-01 00:35:00,5028.08,travel,M_6517,C_16811,Chennai,India,pos,offline,0,2,3,6561.51,0,0.0,False,True,0
+TXN_000008,2025-01-01 00:40:00,2297.71,fuel,M_2844,C_21768,Mumbai,India,desktop,online,0,2,2,3941.14,0,0.0,False,True,0
+TXN_000009,2025-01-01 00:45:00,3078.13,fuel,M_4122,C_63401,Delhi,India,mobile,online,0,2,1,710.81,2,763.66,False,True,0
